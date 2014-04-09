@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="switch_minwidth">72.0dip</dimen>
+    <dimen name="switch_padding">16.0dip</dimen>
+    <dimen name="in_call_end_button_height">74.0dip</dimen>
+    <dimen name="com_android_systemui_close_handle_height">30.0dip</dimen>
+    <dimen name="com_android_systemui_qs_tile_icon_size">36.0dip</dimen>
+    <dimen name="com_android_systemui_qs_tile_margin_above_icon">24.0dip</dimen>
+    <dimen name="com_android_systemui_qs_tile_margin_below_icon">14.0dip</dimen>
+    <dimen name="com_android_systemui_quick_settings_cell_gap">0.0dip</dimen>
+    <dimen name="com_android_contacts_contact_tile_divider_padding">0.0dip</dimen>
+    <dimen name="com_google_android_keep_index_list_item_padding">2.0dip</dimen>
+    <dimen name="com_google_android_gallery3d_thumb_text_size">0.0sp</dimen>
+    <dimen name="com_google_android_gallery3d_thumb_text_padding">24.0dip</dimen>
+    <dimen name="com_google_android_gallery3d_switch_padding">4.0dip</dimen>
+    <dimen name="com_google_android_gallery3d_switch_min_width">72.0dip</dimen>
+    <dimen name="com_google_android_gallery3d_switch_text_max_width">-5.0dip</dimen>
+    <dimen name="com_google_android_qsb_widget_tile_padding">6.0dip</dimen>
+    <dimen name="com_android_calculator2_btn_digit_text_size">40.0sp</dimen>
+    <dimen name="com_android_calculator2_btn_operation_text_size">40.0sp</dimen>
+    <dimen name="com_android_calculator2_btn_function_text_size">30.0sp</dimen>
+    <dimen name="com_android_calculator2_btn_clear_text_size">30.0sp</dimen>
+    <dimen name="com_android_calculator2_display_text_size">40.0sp</dimen>
+    <dimen name="com_android_calculator2_max_display_height">200.0dip</dimen>
+    <dimen name="com_android_deskclock_body_font_size">18.0sp</dimen>
+</resources>

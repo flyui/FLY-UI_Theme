@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" xmlns:pluto="http://www.w3.org/2001/pluto.html" android:hasCode="false" package="cc.theme.flydev">
+    <application android:hasCode="false" android:icon="@drawable/fly_launcher" android:label="Fly UI"/>
+    <uses-feature android:name="com.tmobile.software.themes"/>
+    <theme pluto:author="@string/author" pluto:copyright="@string/copyright" pluto:name="Fly UI" pluto:preview="@drawable/preview" pluto:styleId="@style/flyui" pluto:styleName="@string/style_appearance_name" pluto:themeId="FLY" pluto:wallpaperImage="@drawable/default_wallpaper">
+        <meta-data android:name="com.tmobile.theme.redirections" android:resource="@xml/redirections"/>
+    </theme>
+</manifest>

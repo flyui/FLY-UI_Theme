@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="selection_highlight_light">#bb449ef1</item>
+    <item type="drawable" name="frameworks_res_notification_item_background_color">#ff45474c</item>
+    <item type="drawable" name="frameworks_res_notification_item_background_color_pressed">#55449ef1</item>
+    <item type="drawable" name="frameworks_res_notification_item_background_legacy_color">#ff61636a</item>
+    <item type="drawable" name="com_android_dialer_grayBg">#ff32363a</item>
+    <item type="drawable" name="com_android_mms_text_color_black">#ff000000</item>
+    <item type="drawable" name="com_android_mms_class_zero_background">#7f040000</item>
+    <item type="drawable" name="com_android_systemui_notification_number_text_color">#ffffffff</item>
+    <item type="drawable" name="com_android_systemui_ticker_background_color">#ff1d1d1d</item>
+    <item type="drawable" name="com_android_systemui_status_bar_recents_app_thumbnail_background">#93000000</item>
+    <item type="drawable" name="com_android_systemui_status_bar_notification_row_background_color">#ff090909</item>
+    <item type="drawable" name="com_android_systemui_recents_callout_line">#ffffffff</item>
+    <item type="drawable" name="com_android_systemui_notification_item_background_legacy_color">#ff61636a</item>
+</resources>

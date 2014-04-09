@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:pluto="http://www.w3.org/2001/pluto.html">
+    <item />
+    <package-redirections android:name="android" android:resource="@xml/android" android:minSdkVersion="14" />
+</resource-redirections>
